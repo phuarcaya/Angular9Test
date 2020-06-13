@@ -13,7 +13,7 @@ const user = {
     hobbies: ['Futbol','Basquet']
 }
 
-const {name,lastname}= user
+const {name,lastname,hobbies}= user
 
-console.log(`${name} ${lastname}`);
+console.log(`${name} ${lastname} ${hobbies}`);
 
